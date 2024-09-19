@@ -27,7 +27,7 @@
 
 </div>
 
-<hr size=10 noshade color="green">
+<hr size=5 noshade color="green">
 <p>
 <img alt="CC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/by.xlarge.png" align="left" hspace="0px" vspace="0px">
 <img alt="Attribution" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/nc.xlarge.png" align="left" hspace="0px" vspace="0px">
