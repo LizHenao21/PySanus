@@ -3,7 +3,7 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt="UdeA" height="200px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/Escudo-UdeA.svg" hspace="10px" vspace="0px">
+                <img alt="Logo" height="200px" src="https://raw.githubusercontent.com/LizHenao21/PySanus/refs/heads/main/imagen/Logo.jpg" hspace="10px" vspace="0px">
             </td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>
