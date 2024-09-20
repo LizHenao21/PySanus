@@ -91,7 +91,10 @@ El repositorio debe tener lo siguientes procesos debidamente reportados.
 
 ## **1.   Integrantes**
 En el repositorio del proyecto debe existir un archivo README.md en donde con Markdown detalle los nombres de los integrantes y una breve descripción.
-/n Lizeth Natalia Henao Pinzon: Persona disciplinada, comprometida, apasionada por lo que le gusta que trabaja en sus proyectos con gran amo. Amante del baloncesto y buenas salchipapas
+
+Lizeth Natalia Henao Pinzon: Persona disciplinada, comprometida, apasionada por lo que le gusta que trabaja en sus proyectos con gran amo. Amante del baloncesto y buenas salchipapas
+
+Juan José Passos Marín:
 
 
 ## **2.	Vínculos académicos y descripción**
