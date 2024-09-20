@@ -159,4 +159,20 @@ Describe los requisitos funcionales y no funcionales del software.
 ## **7.	Plan de proyecto**
 
 Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del proyecto.
+
+# @markdown ### Usar el código a continuación para crear el diagrama de Gantt por Usuario
+import plotly.express as px
+import pandas as pd
+df = pd.DataFrame([
+    dict(Tarea="Tarea 1", FechaInicio='2024-08-01', FechaFin='2024-08-15', Responsable="Bruce Wayne"),
+    dict(Tarea="Tarea 2", FechaInicio='2024-08-16', FechaFin='2024-08-30', Responsable="Clark Kent"),
+    dict(Tarea="Tarea 3", FechaInicio='2024-09-01', FechaFin='2024-09-15', Responsable="Clark Kent"),
+    dict(Tarea="Tarea 4", FechaInicio='2024-09-16', FechaFin='2024-09-30', Responsable="Bruce Wayne"),
+    dict(Tarea="Tarea 5", FechaInicio='2024-10-01', FechaFin='2024-10-15', Responsable="Clark Kent"),
+    dict(Tarea="Tarea 6", FechaInicio='2024-10-16', FechaFin='2024-10-30', Responsable="Wonder Woman"),
+    dict(Tarea="Tarea 7", FechaInicio='2024-11-01', FechaFin='2024-11-15', Responsable="Bruce Wayne"),
+    dict(Tarea="Tarea 8", FechaInicio='2024-11-16', FechaFin='2024-11-30', Responsable="Wonder Woman")
+])
+fig = px.timeline(df, x_start="FechaInicio", x_end="FechaFin", y="Responsable", color="Responsable")
+fig.show()
 *   El presupuesto debe tener en cuenta que no se pagará en dinero sino en tiempo de práctica de formación. Es decir, si el grupo del trabajo final lo componen tres estudiantes e invierten un total de 50 horas, estas serán pagadas a valor de práctica profesional. 1 SMLV.
