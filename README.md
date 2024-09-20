@@ -91,13 +91,7 @@ El repositorio debe tener lo siguientes procesos debidamente reportados.
 
 ## **1.   Integrantes**
 En el repositorio del proyecto debe existir un archivo README.md en donde con Markdown detalle los nombres de los integrantes y una breve descripción.
-
-nombres_descripción = (
-    "Lizeth Natalia Henao Pinzon: Persona disciplinada, comprometida, "
-    "apasionada por lo que le gusta, que trabaja en sus proyectos con gran amor. "
-    "Amante del baloncesto y buenas salchipapas\n"
-    "Juan José Passos Marín:"
-)
+/n Lizeth Natalia Henao Pinzon: Persona disciplinada, comprometida, apasionada por lo que le gusta que trabaja en sus proyectos con gran amo. Amante del baloncesto y buenas salchipapas
 
 
 ## **2.	Vínculos académicos y descripción**
