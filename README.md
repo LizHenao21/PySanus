@@ -127,25 +127,26 @@ Proporciona una descripción general del software, sus objetivos y beneficios.
 
 PySanus es un software de gestión diseñado para mejorar la asignación de citas y la atención de pacientes en la EPS Paila Salud. Su principal función es optimizar el proceso de recepción y seguimiento de pacientes, transformando un sistema manual y congestionado en una experiencia fluida y eficiente. Con PySanus, la EPS busca no solo modernizar sus procedimientos, sino también garantizar una atención de calidad que responda a las necesidades de sus usuarios.
 
-**Objetivos de PySanus:**
+### Objetivos de PySanus
 
-**-Crear una Interfaz Amigable:** Desarrollar un programa de consola que sea fácil de usar, permitiendo a los usuarios gestionar la atención de los pacientes sin complicaciones.
+> **- Crear una Interfaz Amigable:** Desarrollar un programa de consola que sea fácil de usar, permitiendo a los usuarios gestionar la atención de los pacientes sin complicaciones.
 
-**-Registrar Datos en un DataFrame:** Permitir la recopilación y organización de datos de pacientes en un DataFrame, facilitando su manejo y análisis.
+> **- Registrar Datos en un DataFrame:** Permitir la recopilación y organización de datos de pacientes en un DataFrame, facilitando su manejo y análisis.
 
-**-Exportar Información a CSV:** Proporcionar la funcionalidad de exportar los registros de atención en un archivo plano (CSV), lo que simplifica la gestión y el almacenamiento de datos.
+> **- Exportar Información a CSV:** Proporcionar la funcionalidad de exportar los registros de atención en un archivo plano (CSV), lo que simplifica la gestión y el almacenamiento de datos.
 
-**-Integrar Documentos Esenciales:** Utilizar dos documentos en el proceso: uno proporcionado por el repositorio inicial y otro creado por el estudiante, asegurando una entrega completa y estructurada de los listados de pacientes.
+> **- Integrar Documentos Esenciales:** Utilizar dos documentos en el proceso: uno proporcionado por el repositorio inicial y otro creado por el estudiante, asegurando una entrega completa y estructurada de los listados de pacientes.
 
-**Beneficios de PySanus:**
+### Beneficios de PySanus
 
-**-Eficiencia en la Gestión:** Al automatizar el registro y seguimiento de pacientes, PySanus reduce el tiempo dedicado a tareas administrativas.
+> **- Eficiencia en la Gestión:** Al automatizar el registro y seguimiento de pacientes, PySanus reduce el tiempo dedicado a tareas administrativas.
 
-**-Mejora en la Atención al Paciente:** La organización de datos permite una atención más rápida y personalizada, mejorando la experiencia del usuario.
+> **- Mejora en la Atención al Paciente:** La organización de datos permite una atención más rápida y personalizada, mejorando la experiencia del usuario.
 
-**-Facilidad de Uso:** La interfaz intuitiva del programa permite que tanto el personal administrativo como los pacientes interactúen con el sistema sin dificultades.
+> **- Facilidad de Uso:** La interfaz intuitiva del programa permite que tanto el personal administrativo como los pacientes interactúen con el sistema sin dificultades.
 
-**-Toma de Decisiones Basada en Datos:** La exportación a CSV facilita el análisis de la información, permitiendo a la EPS realizar mejoras continuas en sus procesos.
+> **- Toma de Decisiones Basada en Datos:** La exportación a CSV facilita el análisis de la información, permitiendo a la EPS realizar mejoras continuas en sus procesos.
+
 
 
 ## **6.	Especificación de requisitos**
