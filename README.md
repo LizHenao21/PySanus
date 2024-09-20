@@ -135,7 +135,7 @@ PySanus es un software de gestión diseñado para mejorar la asignación de cita
 
 > **- Exportar Información a CSV:** Proporcionar la funcionalidad de exportar los registros de atención en un archivo plano (CSV), lo que simplifica la gestión y el almacenamiento de datos.
 
-> **- Integrar Documentos Esenciales:** Utilizar dos documentos en el proceso: uno proporcionado por el repositorio inicial y otro creado por el estudiante, asegurando una entrega completa y estructurada de los listados de pacientes.
+> **- Integrar Documentos:** Utilizar dos documentos en el proceso, uno proporcionado por el repositorio inicial y otro creado por nosotros, asegurando una entrega completa y estructurada de los listados de pacientes.
 
 ### Beneficios de PySanus
 
