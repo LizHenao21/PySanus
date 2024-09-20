@@ -101,8 +101,7 @@ Juan José Passos Marín:
 
 Todos los integrantes deben registrar el programa al cual pertenece, una descripción con habilidades y fortalezas de cada uno.
 
-Lizeth Natalia Henao Pinzon:
-Juan José Passos Marín:
+Lizeth Natalia Henao Pinzon: Soy del pograma de Ingeniería Industrial en la Universidad de Antioquia. Me considero una persona con gran fuerza mental, capacidad de análisis, resolución de conflictos, aprendizaje continuo y rapido, incapaz de detenerse hasta cumplir con sus objetivos personales y profesionales.
 
 ## **3.	Nombre del proyecto y detalles**
 
