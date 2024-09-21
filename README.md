@@ -163,7 +163,7 @@ Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Mi Diagrama de Gantt</title>
+    Diagrama de Gantt
 </head>
 <body>
     <img src="https://raw.githubusercontent.com/LizHenao21/PySanus/refs/heads/main/imagen/DIAGRAMA%20DE%20GANTT.png" alt="Diagrama de Gantt">
