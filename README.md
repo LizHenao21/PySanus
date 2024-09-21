@@ -160,14 +160,15 @@ Describe los requisitos funcionales y no funcionales del software.
 
 Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del proyecto.
 
-
-src="https://raw.githubusercontent.com/LizHenao21/PySanus/refs/heads/main/imagen/DIAGRAMA%20DE%20GANTT.png" vspace="0px">
-            </td>
-            <td align="center">
-                <h1><b>Programación y Algoritmia</b></h1>
-            </td>
-            <td rowspan="3">
-                <img alt="II" height="200px" 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Diagrama de Gantt</title>
+</head>
+<body>
+    <img src="https://raw.githubusercontent.com/LizHenao21/PySanus/refs/heads/main/imagen/DIAGRAMA%20DE%20GANTT.png" alt="Diagrama de Gantt">
+</body>
+</html>
 
 
 
