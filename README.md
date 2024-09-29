@@ -92,26 +92,28 @@ El repositorio debe tener lo siguientes procesos debidamente reportados.
 ## **1.   Integrantes**
 En el repositorio del proyecto debe existir un archivo README.md en donde con Markdown detalle los nombres de los integrantes y una breve descripción.
 
-Lizeth Natalia Henao Pinzon: Persona disciplinada, comprometida y apasionada por aquello que le inspira. Trabajo en mis proyectos con dedicación y entusiasmo, poniendo siempre el corazón en lo que hago. Soy amante del baloncesto y siempre disfruto de unas buenas salchipapas.
+>**Lizeth Natalia Henao Pinzon:** Persona disciplinada, comprometida y apasionada por aquello que le inspira. Trabajo en mis proyectos con dedicación y entusiasmo, poniendo siempre el corazón en lo que hago. Soy amante del baloncesto y siempre disfruto de unas buenas salchipapas.
 
-Juan José Passos Marín: Pertenezco al programa de Ingeniería industrial, entre mis habilidades se destaca mi entusiasmo y optimismo frente a los proyectos de los que hago parte, esto influye positivamente al equipo pues trato de verle lo positivo a las cosas, también soy una persona muy curiosa, dispuesta a aprender y a trabajar en equipo. Entre mis fortalezas la que más destaca es mi proactividad
+>**Juan José Passos Marín:** Pertenezco al programa de Ingeniería industrial, entre mis habilidades se destaca mi entusiasmo y optimismo frente a los proyectos de los que hago parte, esto influye positivamente al equipo pues trato de verle lo positivo a las cosas, también soy una persona muy curiosa, dispuesta a aprender y a trabajar en equipo. Entre mis fortalezas la que más destaca es mi proactividad
 
 
 ## **2.	Vínculos académicos y descripción**
 
 Todos los integrantes deben registrar el programa al cual pertenece, una descripción con habilidades y fortalezas de cada uno.
 
-Lizeth Natalia Henao Pinzon: Soy del pograma de Ingeniería Industrial en la Universidad de Antioquia. Me considero una persona con gran fuerza mental, capacidad de análisis, resolución de conflictos, aprendizaje continuo y rapido, incapaz de detenerse hasta cumplir con sus objetivos personales y profesionales.
+>**Lizeth Natalia Henao Pinzon:** Soy del pograma de Ingeniería Industrial en la Universidad de Antioquia. Me considero una persona con gran fuerza mental, capacidad de análisis, resolución de conflictos, aprendizaje continuo y rapido, incapaz de detenerse hasta cumplir con sus objetivos personales y profesionales.
+
+>**Juan José Passos Marín:**
 
 ## **3.	Nombre del proyecto y detalles**
 
-**PySanus** es un innovador software diseñado para optimizar la gestión de turnos y atenciones en la EPS Paila Salud. Con el objetivo de transformar el actual proceso manual, que obliga a los pacientes a esperar en filas sin atención preferencial, PySanus proporciona una solución integral que mejora tanto la experiencia del paciente como la eficiencia del servicio.
+>**PySanus** es un innovador software diseñado para optimizar la gestión de turnos y atenciones en la EPS Paila Salud. Con el objetivo de transformar el actual proceso manual, que obliga a los pacientes a esperar en filas sin atención preferencial, PySanus proporciona una solución integral que mejora tanto la experiencia del paciente como la eficiencia del servicio.
 
-El programa permite la recepción de solicitudes de citas médicas, registrando automáticamente la fecha, hora, tipo de cita (médico general o especialista), el médico asignado y la información personal del paciente. Además, PySanus identifica y clasifica a los pacientes que requieren atención preferencial o prioritaria, asegurando que reciban el servicio adecuado de manera oportuna.
+>El programa permite la recepción de solicitudes de citas médicas, registrando automáticamente la fecha, hora, tipo de cita (médico general o especialista), el médico asignado y la información personal del paciente. Además, PySanus identifica y clasifica a los pacientes que requieren atención preferencial o prioritaria, asegurando que reciban el servicio adecuado de manera oportuna.
 
-Facilitando el seguimiento de la llegada de los pacientes a la EPS, PySanus gestiona su recorrido a través del sistema, reduciendo el tiempo de espera en el lugar. El software se basa en un listado de pacientes proporcionado por un programa preexistente de la EPS, disponible en un repositorio de GitHub, lo que permite a los usuarios clonar el repositorio y continuar el desarrollo de manera efectiva.
+>Facilitando el seguimiento de la llegada de los pacientes a la EPS, PySanus gestiona su recorrido a través del sistema, reduciendo el tiempo de espera en el lugar. El software se basa en un listado de pacientes proporcionado por un programa preexistente de la EPS, disponible en un repositorio de GitHub, lo que permite a los usuarios clonar el repositorio y continuar el desarrollo de manera efectiva.
 
-Con una interfaz amigable, PySanus permite a los usuarios, tanto al personal administrativo como a los pacientes, interactuar con facilidad, mejorando la experiencia de uso. Además, genera reportes sobre el flujo de pacientes, tiempos de atención y clasificación de citas, lo que permite a la EPS evaluar y mejorar sus procesos de atención.
+>Con una interfaz amigable, PySanus permite a los usuarios, tanto al personal administrativo como a los pacientes, interactuar con facilidad, mejorando la experiencia de uso. Además, genera reportes sobre el flujo de pacientes, tiempos de atención y clasificación de citas, lo que permite a la EPS evaluar y mejorar sus procesos de atención.
 
 
 ## **4.	Licencia del software**
@@ -123,7 +125,7 @@ Definir la licencia con la cual registra el software. https://chooser-beta.creat
 
 ## **5.	Reporte de visión**
 
->**Proporciona una descripción general del software, sus objetivos y beneficios.**
+**Proporciona una descripción general del software, sus objetivos y beneficios.**
 
 >PySanus es un software de gestión diseñado para mejorar la asignación de citas y la atención de pacientes en la EPS Paila Salud. Su principal función es optimizar el proceso de recepción y seguimiento de pacientes, transformando un sistema manual y congestionado en una experiencia fluida y eficiente. Con PySanus, la EPS busca no solo modernizar sus procedimientos, sino también garantizar una atención de calidad que responda a las necesidades de sus usuarios.
 
