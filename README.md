@@ -157,7 +157,7 @@ Requisitos funcionales:
 > **a. Ingreso del usuario al sistema:**
 > - Permitir que los usuarios ingresen su cédula.
 > - Mostrar los datos relacionados con su cita.
-> - Informar si el usuario no tiene una cita programada para el día actual y mostrar la fecha correcta de visita.
+> - Informar si el usuario tiene o no tiene una cita programada para el día actual y mostrar la fecha de la cita.
 > - Permitir el acceso privilegiado a los administradores mediante una contraseña.
 
 > **b. Gestión de citas**
