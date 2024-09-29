@@ -212,6 +212,15 @@ Descripción de Actividades
 
 >**i. Entrega de Proyecto:** Finalmente, se hace la entrega formal del proyecto, junto con el código, manual de usuario y cualquier documentación requerida.
 
-
-
 *   El presupuesto debe tener en cuenta que no se pagará en dinero sino en tiempo de práctica de formación. Es decir, si el grupo del trabajo final lo componen tres estudiantes e invierten un total de 50 horas, estas serán pagadas a valor de práctica profesional. 1 SMLV.
+
+Presupuesto
+<!DOCTYPE html>
+<html>
+<head>
+    Diagrama de Gantt
+</head>
+<body>
+    <img src="https://raw.githubusercontent.com/LizHenao21/PySanus/refs/heads/main/imagen/presupuesto_%20(1)_page-0001.jpg">
+</body>
+</html>
