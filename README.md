@@ -123,9 +123,9 @@ Definir la licencia con la cual registra el software. https://chooser-beta.creat
 
 ## **5.	Reporte de visión**
 
-Proporciona una descripción general del software, sus objetivos y beneficios.
+>**Proporciona una descripción general del software, sus objetivos y beneficios.**
 
-PySanus es un software de gestión diseñado para mejorar la asignación de citas y la atención de pacientes en la EPS Paila Salud. Su principal función es optimizar el proceso de recepción y seguimiento de pacientes, transformando un sistema manual y congestionado en una experiencia fluida y eficiente. Con PySanus, la EPS busca no solo modernizar sus procedimientos, sino también garantizar una atención de calidad que responda a las necesidades de sus usuarios.
+>PySanus es un software de gestión diseñado para mejorar la asignación de citas y la atención de pacientes en la EPS Paila Salud. Su principal función es optimizar el proceso de recepción y seguimiento de pacientes, transformando un sistema manual y congestionado en una experiencia fluida y eficiente. Con PySanus, la EPS busca no solo modernizar sus procedimientos, sino también garantizar una atención de calidad que responda a las necesidades de sus usuarios.
 
 ### Objetivos de PySanus
 
