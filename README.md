@@ -94,7 +94,7 @@ En el repositorio del proyecto debe existir un archivo README.md en donde con Ma
 
 Lizeth Natalia Henao Pinzon: Persona disciplinada, comprometida, apasionada por lo que le gusta que trabaja en sus proyectos con gran amo. Amante del baloncesto y buenas salchipapas
 
-Juan José Passos Marín:
+Juan José Passos Marín: Pertenezco al programa de Ingeniería industrial, entre mis habilidades se destaca mi entusiasmo y optimismo frente a los proyectos de los que hago parte, esto influye positivamente al equipo pues trato de verle lo positivo a las cosas, también soy una persona muy curiosa, dispuesta a aprender y a trabajar en equipo. Entre mis fortalezas la que más destaca es mi proactividad
 
 
 ## **2.	Vínculos académicos y descripción**
