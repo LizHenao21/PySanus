@@ -94,7 +94,7 @@ En el repositorio del proyecto debe existir un archivo README.md en donde con Ma
 
 >**Lizeth Natalia Henao Pinzon:** Persona disciplinada, comprometida y apasionada por aquello que le inspira. Trabajo en mis proyectos con dedicación y entusiasmo, poniendo siempre el corazón en lo que hago. Soy amante del baloncesto y siempre disfruto de unas buenas salchipapas.
 
->**Juan José Passos Marín:** Pertenezco al programa de Ingeniería industrial, entre mis habilidades se destaca mi entusiasmo y optimismo frente a los proyectos de los que hago parte, esto influye positivamente al equipo pues trato de verle lo positivo a las cosas, también soy una persona muy curiosa, dispuesta a aprender y a trabajar en equipo. Entre mis fortalezas la que más destaca es mi proactividad
+>**Juan José Passos Marín:** Soy una persona carismatica, creativa, flexible, alguien que prefiere trabajar de forma colaborativa en lugar de hacerlo individualmente. Me destaco por ser una persona muy recursiva, que de la mano con la creatividad y flexibilidad me permite encontrar rapidamente otras vias de solución cuando el plan inicial tiene dificultades
 
 
 ## **2.	Vínculos académicos y descripción**
@@ -103,7 +103,7 @@ Todos los integrantes deben registrar el programa al cual pertenece, una descrip
 
 >**Lizeth Natalia Henao Pinzon:** Soy del pograma de Ingeniería Industrial en la Universidad de Antioquia. Me considero una persona con gran fuerza mental, capacidad de análisis, resolución de conflictos, aprendizaje continuo y rapido, incapaz de detenerse hasta cumplir con sus objetivos personales y profesionales.
 
->**Juan José Passos Marín:**
+>**Juan José Passos Marín:** Pertenezco al programa de Ingeniería industrial, entre mis habilidades se destaca mi entusiasmo y optimismo frente a los proyectos de los que hago parte, esto influye positivamente al equipo pues trato de verle lo positivo a las cosas, también soy una persona muy curiosa, dispuesta a aprender y a trabajar en equipo. Entre mis fortalezas la que más destaca es mi proactividad
 
 ## **3.	Nombre del proyecto y detalles**
 
