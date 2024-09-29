@@ -151,10 +151,9 @@ PySanus es un software de gestión diseñado para mejorar la asignación de cita
 
 ## **6.	Especificación de requisitos**
 
-Describe los requisitos funcionales y no funcionales del software.
-*   Los requisitos funcionales:
-*   a. Ingreso del usuario al sistema:
-*   - Permitir que los usuarios ingresen su cédula.
+Requisitos funcionales:
+    a. Ingreso del usuario al sistema:
+    - Permitir que los usuarios ingresen su cédula.
     - Mostrar los datos relacionados con su cita.
     - Informar si el usuario no tiene una cita programada para el día actual y mostrar la fecha correcta de visita.
     - Permitir el acceso privilegiado a los administradores mediante una contraseña.
@@ -165,7 +164,8 @@ Describe los requisitos funcionales y no funcionales del software.
     - Consultar cita.
     - Agendar cita
     - PQRS
-    Requisitos No Funcionales
+
+Requisitos No Funcionales
     a. Usabilidad
     - La interfaz de usuario debe ser intuitiva y fácil de usar, incluso para personas con poca experiencia en tecnología.
     - El sistema debe proporcionar mensajes claros y útiles para guiar al usuario en cada paso del proceso.
