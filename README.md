@@ -220,6 +220,6 @@ Descripción de Actividades
     Presupuesto
 </head>
 <body>
-    <img src="https://raw.githubusercontent.com/LizHenao21/PySanus/refs/heads/main/imagen/presupuesto_%20(1)_page-0001.jpg">
+    <img src="https://github.com/LizHenao21/PySanus/blob/main/imagen/presupuesto__page-0001.jpg?raw=true">
 </body>
 </html>
