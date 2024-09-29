@@ -192,7 +192,8 @@ Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del
 </body>
 </html>
 
->**Descripción de Actividades**
+Descripción de Actividades
+
 >**a.Versiones del programa:** En esta fase se lleva un control de versiones para el programa, donde se deberán crear varias versiones del software a medida que vayan implementando mejoras y corrigiendo errores.
 
 >**b.Carpeta de repositorio:** Esta carpeta es el lugar donde se almacenan y organizan los archivos del proyecto, incluyendo código fuente, documentación, y cualquier otro recurso necesario.
