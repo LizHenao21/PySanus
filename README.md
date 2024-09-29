@@ -194,23 +194,23 @@ Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del
 
 Descripción de Actividades
 
->**a.Versiones del programa:** En esta fase se lleva un control de versiones para el programa, donde se deberán crear varias versiones del software a medida que vayan implementando mejoras y corrigiendo errores.
+>**a. Versiones del programa:** En esta fase se lleva un control de versiones para el programa, donde se deberán crear varias versiones del software a medida que vayan implementando mejoras y corrigiendo errores.
 
->**b.Carpeta de repositorio:** Esta carpeta es el lugar donde se almacenan y organizan los archivos del proyecto, incluyendo código fuente, documentación, y cualquier otro recurso necesario.
+>**b. Carpeta de repositorio:** Esta carpeta es el lugar donde se almacenan y organizan los archivos del proyecto, incluyendo código fuente, documentación, y cualquier otro recurso necesario.
 
->**c.Código de programa:** Se trata de la implementación del código que llevará a cabo las funcionalidades definidas para el sistema. El equipo debe escribir el código en el lenguaje de Python utilizando las herramientas y habilidadas obtenidas en clases, asesorías, monitorías o autónomo.
+>**c. Código de programa:** Se trata de la implementación del código que llevará a cabo las funcionalidades definidas para el sistema. El equipo debe escribir el código en el lenguaje de Python utilizando las herramientas y habilidadas obtenidas en clases, asesorías, monitorías o autónomo.
 
->**d.Pruebas y correcciones:** Se van a realizar pruebas funcionales y de rendimiento en el programa, verificando que el sistema gestione correctamente los turnos, clasifique a los pacientes y se integre adecuadamente con el programa de la EPS. Se corregirán errores encontrados durante las pruebas.
+>**d. Pruebas y correcciones:** Se van a realizar pruebas funcionales y de rendimiento en el programa, verificando que el sistema gestione correctamente los turnos, clasifique a los pacientes y se integre adecuadamente con el programa de la EPS. Se corregirán errores encontrados durante las pruebas.
 
->**e.Criterios de Manual:** En esta fase, se definen los criterios para la creación del manual de usuario. Esto incluye decidir qué información debe incluirse y cómo se estructurará para que sea comprensible para los usuarios.
+>**e. Criterios de Manual:** En esta fase, se definen los criterios para la creación del manual de usuario. Esto incluye decidir qué información debe incluirse y cómo se estructurará para que sea comprensible para los usuarios.
 
->**f.Redacción de Manual:** Se redacta el manual de usuario basándose en los criterios establecidos previamente. Este manual debe ser claro y fácil de entender para los usuarios finales.
+>**f. Redacción de Manual:** Se redacta el manual de usuario basándose en los criterios establecidos previamente. Este manual debe ser claro y fácil de entender para los usuarios finales.
 
->**g.Revisión de Manual:** Revisar el manual para asegurarse de que contiene todas las instrucciones necesarias y que es fácil de seguir por cualquier persona que utilice el sistema, realizando correcciones si es necesario.
+>**g. Revisión de Manual:** Revisar el manual para asegurarse de que contiene todas las instrucciones necesarias y que es fácil de seguir por cualquier persona que utilice el sistema, realizando correcciones si es necesario.
 
->**h.Última prueba de programa:** Ejecutar una prueba final para asegurar que el sistema de gestión de turnos funcione correctamente con los datos proporcionados por la EPS, garantizando que las prioridades de atención sean respetadas y que el flujo de trabajo sea el adecuado.
+>**h. Última prueba de programa:** Ejecutar una prueba final para asegurar que el sistema de gestión de turnos funcione correctamente con los datos proporcionados por la EPS, garantizando que las prioridades de atención sean respetadas y que el flujo de trabajo sea el adecuado.
 
->**i.Entrega de Proyecto:** Finalmente, se hace la entrega formal del proyecto, junto con el código, manual de usuario y cualquier documentación requerida.
+>**i. Entrega de Proyecto:** Finalmente, se hace la entrega formal del proyecto, junto con el código, manual de usuario y cualquier documentación requerida.
 
 
 
