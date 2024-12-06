@@ -223,3 +223,54 @@ Descripción de Actividades
     <img src="https://github.com/LizHenao21/PySanus/blob/main/imagen/presupuesto__page-0001.jpg?raw=true">
 </body>
 </html>
+
+
+## Planes Versionados del Programa
+
+### Versión 1.0: Menú Inicial
+
+En esta versión inicial, se desarrolló la estructura básica del programa con los siguientes menús principales:
+
+1. **Administrador 💻**: Permite acceder al Menú del Administrador.
+2. **Usuario 🧑‍⚕️**: Permite acceder al Menú del Usuario.
+3. **Salir 🚪**: Finaliza la ejecución del programa.
+
+Cada menú principal estaba vacío y servía como un esqueleto para futuras funcionalidades.
+
+---
+
+### Versión 1.5: Confirmar y Eliminar Citas
+
+Se añadieron las funcionalidades básicas para la gestión de citas en el Menú del Usuario:
+
+1. **Confirmar Cita ✅**: Permite a los usuarios confirmar una cita programada.
+   - Solicita el nombre del usuario.
+   - Busca la cita en el archivo `Citas.csv`.
+   - Marca la cita como "confirmada" si se encuentra.
+
+2. **Cancelar Cita ❌**: Permite a los usuarios cancelar una cita programada.
+   - Solicita el nombre del usuario.
+   - Busca y elimina la cita en el archivo `Citas.csv`.
+
+Además, se añadió la funcionalidad de reportes básicos en el Menú del Administrador.
+
+---
+
+### Versión 2.0: Sistema Completo
+
+En esta versión final, el programa incluye todas las funcionalidades documentadas:
+
+#### Menú del Administrador:
+
+1. **Reportes 📋**: Genera reportes detallados sobre los usuarios registrados, citas confirmadas y canceladas.
+2. **Añadir Admin ➕**: Permite añadir nuevos administradores al sistema.
+   - Valida nombres únicos y solicita una contraseña segura.
+3. **Eliminar Admin ❌**: Permite eliminar administradores existentes.
+   - Restricciones para evitar la eliminación del administrador autenticado.
+4. **Salir 🚪**: Regresa al menú principal.
+
+#### Menú del Usuario:
+
+1. **Confirmar Cita ✅**: Confirma la asistencia a una cita programada.
+2. **Cancelar Cita ❌**: Cancela una cita registrada.
+3. **Salir 🚪**: Regresa al menú principal.
