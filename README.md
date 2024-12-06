@@ -225,7 +225,7 @@ Descripción de Actividades
 </html>
 
 
-## Planes Versionados del Programa
+## 8. Planes Versionados del Programa
 
 ### Versión 1.0: Menú Inicial
 
