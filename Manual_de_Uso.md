@@ -125,7 +125,7 @@ Permite a los usuarios asegurar su asistencia a una cita previamente programada.
 1. Desde el Menú Principal, selecciona la opción **Usuario**.
 2. Una vez dentro del Menú del Usuario, selecciona la opción **Confirmar Cita ✅**.
 3. El sistema solicitará ingresar el nombre del usuario. Este debe coincidir exactamente con el registrado en el archivo `Citas.csv`.
-   - **Ejemplo**: Si tu nombre es "Goku", debes ingresarlo tal como está registrado.
+   - **Ejemplo**: Si tu nombre es "Bulma", debes ingresarlo tal como está registrado.
 4. El sistema buscará la cita correspondiente en la base de datos. Si encuentra la cita, mostrará los detalles en el siguiente formato:
    > Confirmando cita para {nombre}: {fecha} a las {hora}.
 5. Si no encuentra una cita registrada, mostrará el mensaje:
@@ -138,7 +138,7 @@ Permite a los usuarios liberar un espacio previamente reservado. El proceso es e
 1. Desde el Menú Principal, selecciona la opción **Usuario**.
 2. Una vez dentro del Menú del Usuario, selecciona la opción **Cancelar Cita ❌**.
 3. El sistema solicitará ingresar el nombre del usuario. Este debe coincidir exactamente con el registrado en el archivo `Citas.csv`.
-   - **Ejemplo**: Si tu nombre es "Gohan", debes ingresarlo tal como está registrado.
+   - **Ejemplo**: Si tu nombre es "Krilin", debes ingresarlo tal como está registrado.
 4. El sistema buscará la cita correspondiente en la base de datos. Si encuentra la cita, mostrará los detalles en el siguiente formato:
    > Cancelando cita para {nombre}: {fecha} a las {hora}.
 5. Si no encuentra una cita registrada, mostrará el mensaje:
